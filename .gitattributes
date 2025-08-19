@@ -1,0 +1,5 @@
+# Normalización de finales de línea
+*          text=auto eol=lf
+*.cmake    text eol=lf
+*.txt      text eol=lf
+*.md       text eol=lf
